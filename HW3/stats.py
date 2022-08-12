@@ -1,8 +1,4 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no. 3
-Program:stats.py
 
 #A program that reads a sentence from a file and write the median , mean 
 and their standard deviation to a separate file
