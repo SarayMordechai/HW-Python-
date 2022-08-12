@@ -1,10 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.5
-Program:check_primes.py
-
-#A program that reads numbers from a file and checks whether the number 
+A program that reads numbers from a file and checks whether the number 
 is a prime number and prints the result next to it
 """
 import random
