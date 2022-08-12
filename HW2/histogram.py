@@ -1,12 +1,6 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no. 2
-Program:histogram.py
-
-#A program that reads a piece of text from the input and prints a histogram 
+A program that reads a piece of text from the input and prints a histogram 
 describing the number of times each letter in ABC appeared on the input.
-
 """
 #Creating a list to contain the a
 counters=[0]*26
