@@ -1,11 +1,4 @@
-"""
-Created on Tue Oct 27 18:48:18 2020
 
-@author: saray mordehai
-ID:316153592
-Assignment no. 2
-Program: dice.py
-"""
 import random
 
 enter=input("Press Enter to grill the cubes: ")
