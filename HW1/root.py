@@ -1,11 +1,4 @@
-"""
-Created on Wed Oct 28 15:19:00 2020
 
-@author: saray mordehai
-ID:316153592
-Assignment no. 3
-Program: root.py
-"""
 #Variables received from the user
 num=int(input("Enter a number:"))
 guess=int(input("Make a guess:"))
