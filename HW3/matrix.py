@@ -1,8 +1,4 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no. 3
-Program:matrix.py
 
 #A program that reads from a file a quadratic matrix  and a list of numbers 
 that represents a polynomial and prints the results of the placement of the
