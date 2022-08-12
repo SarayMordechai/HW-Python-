@@ -1,11 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.5
-Program:print_sums.py
-
-
-#A program that reads from an integer file and list and for each line of input 
+A program that reads from an integer file and list and for each line of input 
 function will print to the file all the ways to write the integer as a sum of numbers
 """
 def check_num(lst):
