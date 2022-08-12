@@ -1,10 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.3
-Program:logo.py
-
-#The program is painting Python's icon
+The program is painting Python's icon
 """
 import turtle
 
