@@ -1,10 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.4
-Program:grades.py
-
-#A program that reads data from 2 files the data The program will read into two dictionaries,
+A program that reads data from 2 files the data The program will read into two dictionaries,
 the program prints on the screen the students name, his grade point average, 
 the gradereceived the most times and the list of grades received more than once
 """
