@@ -1,10 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.1
-Program:trinangle.py
-
-#The program receives a string from the user
+The program receives a string from the user
 and prints the string in an asterisks triangle
 """
 import math
