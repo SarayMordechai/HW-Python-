@@ -1,10 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.5
-Program:num_sums.py
-
-#A program that reads from a row of numbers and prints on the screen the
+A program that reads from a row of numbers and prints on the screen the
  number of times the first number can be written as the sum 
  of the other numbers in the list
 """
