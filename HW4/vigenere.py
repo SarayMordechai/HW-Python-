@@ -1,10 +1,5 @@
 """
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.4
-Program:vigenere.py
-
-#A program that asks the user to choose between e and d to enter an encryption key and file
+A program that asks the user to choose between e and d to enter an encryption key and file
 name if he selects e will print the decryption results to the file, 
 if he selects d will print the decryption results to the screen
 """
