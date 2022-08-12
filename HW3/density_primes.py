@@ -1,8 +1,4 @@
-"""
-Student:Saray Mordehai
-ID: 316153592
-Assignment no.3
-Program:density_primes.py
+
 
 A program that produces 100,000 random numbers and from them tests some of them prime
 """
